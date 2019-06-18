@@ -2,7 +2,7 @@
 
 Author : EJ
 
-## 下載連結: Win10/Linux/MacOS 通用版本 
+## 下載連結: Win10/Linux/MacOS 通用版本壓縮包 
 <a href="./richart_compound_interest.zip" download>這裡下載-20190618</a>
 
 # 0. 如果您的PC/Mac上還沒有Python請官方網頁下載Python
